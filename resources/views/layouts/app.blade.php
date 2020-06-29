@@ -98,7 +98,7 @@
                         <a class="nav-link" href="#"> <img src="/svg/instagramSearch.svg" style="height: 24px;"> </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="#"> <img src="/svg/instagramAdd.svg" style="height: 24px;"> </a>
+                        <a class="nav-link" href="/post/create"> <img src="/svg/instagramAdd.svg" style="height: 24px;"> </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link" href="#"> <img src="/svg/instagramLove.svg" style="height: 24px;"> </a>
